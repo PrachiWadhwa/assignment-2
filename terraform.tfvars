@@ -1,0 +1,1 @@
+bucket_names=["bucket-a", "bucket-b", "bucket-c"]
